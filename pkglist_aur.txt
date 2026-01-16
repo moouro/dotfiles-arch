@@ -1,0 +1,6 @@
+google-chrome
+ocs-url
+ocs-url-debug
+visual-studio-code-bin
+yay
+yay-debug

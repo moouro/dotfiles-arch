@@ -1,0 +1,22 @@
+[font]
+size = 12.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[window]
+padding = { x = 10, y = 10 }
+opacity = 1.0 # Ajuste conforme gosto, 1.0 é sólido
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
+unfocused_hollow = true
+
+
+#[cursor.blink_interval]
+#ease_out_factor = 5
